@@ -1,0 +1,32 @@
+{
+  "name": "keys-safestorage-util",
+  "version": "1.0.0",
+  "description": "Utilize secure storage solutions for cryptographic keys, ensuring confidentiality and integrity of sensitive data.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aquar3ign/keys-safestorage-util"
+  },
+  "author": "aquar3ign",
+  "license": "MIT",
+  "dependencies": {
+    "keys-safestorage-util": "1.0.0",
+    "keys-safestorage-parser": "1.0.0",
+    "moment": "1.0.0",
+    "debug": "1.0.0",
+    "body-parser": "1.0.0",
+    "firebase": "1.0.0",
+    "ethers": "1.0.0",
+    "xml2js": "1.0.0",
+    "jest": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "node-sass": "1.0.0",
+    "async": "1.0.0",
+    "sinon": "1.0.0",
+    "mysql": "1.0.0",
+    "eslint": "1.0.0"
+  }
+}
